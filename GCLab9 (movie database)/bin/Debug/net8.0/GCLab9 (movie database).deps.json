@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GCLab9 (movie database)/1.0.0": {
+        "runtime": {
+          "GCLab9 (movie database).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCLab9 (movie database)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
