@@ -62,7 +62,7 @@ while (runProgram)
         {
             if (m.category == "ghibli")
             {
-                temp.Add($"{m.title} ({m.year})");
+                temp.Add(string.Format("{0} ({1})", m.title, m.year)); //can also use string format
             }
         }
         Console.WriteLine(String.Join("\n", temp.OrderBy(x => x)));
