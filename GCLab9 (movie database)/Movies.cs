@@ -11,12 +11,14 @@ namespace GCLab9__movie_database_
         //properties
         public string title {  get; set; }
         public string category { get; set; }
+        public int year { get; set; }
 
         //constructor 
-        public Movies(string _title, string _category)
+        public Movies(string _title, string _category, int _year)
         {
             title = _title;
             category = _category;
+            year = _year;
         }
 
         //methods

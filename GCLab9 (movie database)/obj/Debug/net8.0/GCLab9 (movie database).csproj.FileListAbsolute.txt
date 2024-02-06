@@ -12,3 +12,4 @@ C:\Users\elire\source\repos\GC Labs\GCLab9 (movie database)\GCLab9 (movie databa
 C:\Users\elire\source\repos\GC Labs\GCLab9 (movie database)\GCLab9 (movie database)\obj\Debug\net8.0\GCLab9 (movie database).pdb
 C:\Users\elire\source\repos\GC Labs\GCLab9 (movie database)\GCLab9 (movie database)\obj\Debug\net8.0\GCLab9 (movie database).genruntimeconfig.cache
 C:\Users\elire\source\repos\GC Labs\GCLab9 (movie database)\GCLab9 (movie database)\obj\Debug\net8.0\ref\GCLab9 (movie database).dll
+C:\Users\elire\source\repos\GC Labs\GCLab9 (movie database)\GCLab9 (movie database)\obj\Debug\net8.0\GCLab9 (movie database).sourcelink.json
